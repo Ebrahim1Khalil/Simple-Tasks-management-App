@@ -23,13 +23,14 @@ Object-Oriented Programming (OOP): Employs classes and objects to encapsulate us
 Core Python Concepts: Utilizes loops, conditions, functions, and data structures for efficient task management and user interaction.
 JSON: Stores and retrieves user data and task information for persistence.
 Security: Implements password hashing and access control mechanisms.
+
 Getting Started:
-Clone the repository.
-Install any required dependencies (if applicable).
-Run the main Python script (main.py).
-Choose between signing up for a new account or logging in with an existing one.
-Manage your tasks using the user-friendly menu and functionalities.
-Contributing
+-Clone the repository.
+-Run the main Python script (main.py).
+-Choose between signing up for a new account or logging in with an existing one.
+-Manage your tasks using the user-friendly menu and functionalities.
+
+Contributing:
 We encourage contributions to improve this project. We welcome pull requests for bug fixes, new features, and enhancements to existing functionalities.
 
 This application provides a secure and organized solution for individuals and teams to manage their tasks effectively.
